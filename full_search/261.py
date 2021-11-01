@@ -1,3 +1,7 @@
+# 全探索
+# ペアの全探索 5
+# https://algo-method.com/tasks/261
+
 N = int(input())
 S = input()
 
